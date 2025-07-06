@@ -8,7 +8,7 @@ import {
 import Footer from './components/Footer';
 import Navbar from './components/Navbar';
 
-const API_BASE_URL = 'http://localhost:5000';
+const API_BASE_URL = 'https://mini-business-306313009197.europe-west1.run.app';
 
 
 function App() {
